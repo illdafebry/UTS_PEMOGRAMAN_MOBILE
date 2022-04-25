@@ -1,8 +1,5 @@
-# Source Code VSW Store Book | Android Studio
+# Source Code TOKO BUKU ESPORT | Android Studio
 Dosen Pengampu : Dinarto Iswanto, S.Kom., M.M.
-
-```
-Veno Setyoaji Wiratama
-311910363
+ILLDA FEBRYAWAN BUDIONO
+311910749
 TI.19.A.2
-```
